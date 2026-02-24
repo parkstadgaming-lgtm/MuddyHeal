@@ -1,6 +1,7 @@
 ## Interface: 11200
 ## Title: MuddyHeal
-## Notes: Ultimate Paladin Healing Suite.
+## Version: 1.0.0
+## Notes: A high-performance Paladin healing suite with smart-ranking and range detection.
 ## Author: MuddySubmarineBug
 ## SavedVariables: MuddyHeal_Config
 MuddyHeal_Styles.lua
