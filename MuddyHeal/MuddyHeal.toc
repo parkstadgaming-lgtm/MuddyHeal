@@ -1,9 +1,0 @@
-## Interface: 11200
-## Title: MuddyHeal
-## Notes: Ultimate Paladin Healing Suite.
-## Author: MuddySubmarineBug
-## SavedVariables: MuddyHeal_Config
-MuddyHeal_Styles.lua
-MuddyHeal_Action.xml
-MuddyHeal_Cast.lua
-MuddyHeal_Core.lua
